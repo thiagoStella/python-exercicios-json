@@ -1,3 +1,4 @@
+#peça ao usuari 5 numeros inteiros e salve em um arquivo chamado "números"
 import json
 
 lista_numeros = []
